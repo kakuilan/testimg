@@ -1,0 +1,10 @@
+#dir
+.DS_Store
+.buildpath
+.git
+.gitee
+.idea
+.project
+.settings
+.user.ini
+.vscode
